@@ -24,7 +24,7 @@ coppinger@wustl.edu
 | Week 2        | 9/2- 9/6 | Beast, BiSSE, and SIR |
 | Week 3        | 9/9 - 9/13 | Marginal, Conditional, and Joint Probability |
 | Week 4        | 9/16 - 9/20 | Bayes Theorm and Maximum Likelihood|
-| Week 5        | 9/23 - 9/27 | Ordinary differential equations |
+| Week 5        | 9/23 - 9/27 | Sick Week |
 | Week 6        | 9/30 - 10/4 | Felenstiens pruning algorithm |
 | Week 7        | 10/7 -10/11 | Ordinary and generalized least squares |
 | Week 8        | 10/14 -10/18 | Pagals lambda |
