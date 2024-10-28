@@ -16,6 +16,7 @@ coppinger@wustl.edu
 <div align="center">
     <img src="/Other_resources/Adventure.png" alt="Adventure">
 </div>
+
 # Table of Contents
 
 <center>
