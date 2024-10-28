@@ -13,7 +13,7 @@ y <-c(2, 3, 5, 7)
 Answer is in Week 9 ~ LinearRegression.R
 
 
-Bayes theorm: Okay now lets really dig into it.
+Bayes theorm: Okay now lets really dig into it. https://en.wikipedia.org/wiki/Bayes%27_theorem
 Bayes Theorm combines all of our understanding of joint, conditional, and marginal probabilites. 
 See the attached "Bayes.png" for a breakdown of the formula amd all its moving parts. 
 Essentially the posterior probability will change given our prior probability. 
