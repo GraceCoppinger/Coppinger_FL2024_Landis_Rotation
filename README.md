@@ -7,12 +7,12 @@ My name is Grace and I am a first year graduate student who rotated in the Landi
 # Repository structure
 This repository contains a folder for each week, where I will attach those papers, tutorials, and my breif summary of the topic I covered. I will do my best to include R scripts and websites as needed, but for clarity I will create two additonal folders labeled "Scripts" and "Other resources" for easy accses, where you can find that material as needed. The file named "Scripts" will include all of the R scripts I generated during my time here. Additonally, in the folder labeled "Other Resources" you can find my thoughts on how to use Chatgtp effectiently, and other resources I used in my time here. Finally, in the text file called "Thoughts and Revisions" you can find my thoughts on what went wrong, and what I would have done differently. If you are a rotating student in the landis lab, or just in general a human wanting to start learning Phylogenetic comparative methods: I highly reccomend reading "Thoughts and Revisions" before you start looking through my resources. I do not think over these ten weeks I covered all necessary material, or did everything perfectly. I only hope this repository will serve as a resource for other who do not know where to start. Enjoy and please contact me if any of the links are not working and need to be updated.
 
-I hope you enjoy your rotation/ journey and best of luck!
+I hope you enjoy your adventure in phylogenetic comparative methods and best of luck!
 
 Grace Coppinger
 coppinger@wustl.edu
 
-
+![Alt text](URL_or_path_to_image)
 # Table of Contents
 
 <center>
