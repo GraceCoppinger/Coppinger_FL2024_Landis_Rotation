@@ -1,0 +1,8 @@
+Week 4 Bayes Theorm and Maximum Likelihood:
+
+Okay this week I tried to dig into some foundational concepts that phylogenetic comparative methods build off of. 
+
+Maximum likelihood estimation (MLE): Find a parameter that maximize the likelihood of observed data occuring. 
+It is used to measure how well the model explains the data. MLE differes from Bayesian, becuase Bayesian methods require some known prior data.
+
+Bayes theorm
