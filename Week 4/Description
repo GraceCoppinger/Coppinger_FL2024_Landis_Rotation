@@ -1,9 +1,18 @@
 Week 4 Bayes Theorm and Maximum Likelihood:
 
 Okay this week I tried to dig into some foundational concepts that phylogenetic comparative methods build off of. 
-Before starting you should have a good understanind of joint, conditional, and marginal probabilites and seen some of these terms in Rev Bayes and BEAST tutorials.
+Before starting you should have a good understanind of joint, conditional, and marginal probabilites and have seen MLE and Bayes Theorm in Rev Bayes and BEAST tutorials.
 
 Maximum likelihood estimation (MLE): Find a parameter that maximize the likelihood of observed data occuring. 
 It is used to measure how well the model explains the data. MLE differes from Bayesian, becuase Bayesian methods require some known prior data.
+I reccomend refering to the wikipedia page if you have further questions: https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+Task to practice: Build a function that calculates the maximum likelihood of the follow x and y points. 
+Your goal is to make a line and find the estimated best fit:
+x <-c(1, 2, 3, 4)
+y <-c(2, 3, 5, 7)
+Answer is in Week 9 ~ LinearRegression.R
 
-Bayes theorm
+
+Bayes theorm: Okay now lets really dig into it.
+Bayes Theorm combines all of our understanding of joint, conditional, and marginal probabilites. See the attached "BayesTheorm.png" for a breakdown of the formula amd all its moving parts. 
+Essentially the posterior probability will change goven our prior probability. 
