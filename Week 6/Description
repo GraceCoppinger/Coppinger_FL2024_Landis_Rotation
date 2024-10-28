@@ -1,1 +1,26 @@
 Week 6 Felenstiens pruning algorithm:
+https://en.wikipedia.org/wiki/Felsenstein%27s_tree-pruning_algorithm
+This algorithm was revoltionary and made by a man named Joseph Felsentien. 
+It provided a providing a tractable way of finding maximum likelihood (ML) estimates of evolutionary trees from DNA sequence data.
+Before the felsenstien algorithm there was a serious problem with having too many values to consider in sequence data on branches. 
+Within his paper "Evolutionary trees from DNA sequences: A maximum likelihood approach" Felsenstein made several significant contributions, namely: 
+(i) a probabilistic model of nucleotide substitution 
+(ii) an algorithm to optimize branch lengths 
+(iii) an algorithm to search for the most likely tree
+(iv) a computer program to implement these calculations
+(v) likelihood ratio tests to compare phylogenetic hypotheses
+(vi) the first empirical ML tree obtained from (ribo)nucleotide sequences.
+
+The main equation of this algorithm is attached in the file "Prunning.png"
+Using this formula, one has to start from the tips of the tree T, then move towards the root and compute the partial likelihoods of each necessary node on the way (4 partial likelihoods per node)
+Having finished at the root of the tree, the likelihood of the tree (for this particular site) is then the sum of the partial likelihoods of the root times the appropriated nucleotide frequency.
+
+Now for practice simulate a 4 tip tree in R using Ape. and calculate Pagels Lambda by hand. 
+Use set.seed(132)
+You will need to:
+-obtain branch legths including internal nodes
+-Write a Q-matrix with the branch lengths
+-Apply pagels lambda to the off diagonals
+-Use phylosig to calculate pagels lambda
+
+See "Pagels.R" and PagesAnswer.png to check your work
