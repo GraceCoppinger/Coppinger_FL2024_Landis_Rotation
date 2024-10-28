@@ -14,5 +14,20 @@ Answer is in Week 9 ~ LinearRegression.R
 
 
 Bayes theorm: Okay now lets really dig into it.
-Bayes Theorm combines all of our understanding of joint, conditional, and marginal probabilites. See the attached "BayesTheorm.png" for a breakdown of the formula amd all its moving parts. 
-Essentially the posterior probability will change goven our prior probability. 
+Bayes Theorm combines all of our understanding of joint, conditional, and marginal probabilites. 
+See the attached "Bayes.png" for a breakdown of the formula amd all its moving parts. 
+Essentially the posterior probability will change given our prior probability. 
+There are four key terms:
+- Posterior probaility: Your updated belief about the hypothesis after taking into account the evidence. You report this
+- Prior Probability: Your initial belief about the hypothesis before seeing the evidence.
+- Likelihood: How likely the evidence is if the hypothesis is true.
+- Marginal Likelihood: The total probability of the evidence under all possible hypotheses.
+
+For example lets say we want to calculate our chances of having a disease given a positive test. 
+Here is the informtion I will provide: A disease affects 1% of the population. 
+A medical test is available that correctly identifies the disease 90% of the time when a person has the disease (true positive rate). 
+However, the test also has a 5% false positive rate, meaning it incorrectly indicates that a healthy person has the disease 5% of the time.
+If a person tests positive for the disease, what is the probability that they actually have the disease?
+
+Using Bayes theorm determine what your Posterior probaility, Prior Probability, Likelihood, and Marginal Likelihood are. 
+Use "Bayes.png" to determine and see "BayestestAnswer.png" to check your work
