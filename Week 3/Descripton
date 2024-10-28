@@ -1,1 +1,26 @@
-Week 3:
+Week 3 Marginal, Conditional, and Joint Probability
+
+Alright some things you need to know when figuring out the proability of an event happening, a tree being accurate, or a trait being displayed. 
+I highly reccomend working through the following tutorial: https://www.youtube.com/watch?v=xu-HhF3SpbE
+
+Marginal: Prob of 1 event occurring independent of any other event
+   For example- P(A) 
+      A- Prob of selling a piece of clothing regardless the location
+
+Conditional- Prob of an event occurring dependent of another event
+   For example- P(A|B) Prob of selling a piece of clothing if we know the person is from NY?
+      A- Prob of selling a piece of clothing regardless the location
+
+Joint- Prob of 2 events happening simultaneously
+   For example- P(A,B) 
+      A- Prob of selling a piece of clothing
+      B- Prob of selling at a location
+
+For the examples imagine this data set:
+	NY	Cali	Tot
+Tshirt	.13	.22	.35
+Pants	.17	.09	.26
+Shoes	22	.17	.39
+Tot	.52	.48	1
+
+These three terms will come up constantly and working to adequitly understand them is important.
