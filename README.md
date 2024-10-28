@@ -12,7 +12,7 @@ I hope you enjoy your adventure in phylogenetic comparative methods and best of 
 Grace Coppinger
 coppinger@wustl.edu
 
-![Alt text](URL_or_path_to_image)
+![Adventure](/Coppinger_FL_2024_Landis_Rotation/ Other resources/ Adventure.png)
 # Table of Contents
 
 <center>
