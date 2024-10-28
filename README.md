@@ -17,7 +17,7 @@ coppinger@wustl.edu
 
 <center>
 
-| Week | Date |Description |
+| Week | Date | Description |
 |-------------------|-------------|
 | Week 1        | 8/26- 8/30 | This folder contains |
 | Week 2        | 9/2- 9/6 | This folder contains |
