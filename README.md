@@ -13,7 +13,9 @@ I hope you enjoy your adventure in phylogenetic comparative methods and best of 
 Grace Coppinger
 coppinger@wustl.edu
 
-![Adventure](/Other_resources/Adventure.png)
+<div align="center">
+    <img src="/Other_resources/Adventure.png" alt="Adventure">
+</div>
 # Table of Contents
 
 <center>
