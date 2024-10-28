@@ -1,1 +1,29 @@
 Week 2:
+For my second week I focused my attention on understanding BEAST, and starting BiSSE and SIR models. 
+
+BEAST is a program that performs Bayesian analysis of molecular sequences using MCMC. 
+I was confused on those terms the first time I heard them, again go through the Luke Harmon textbook if you have not :). 
+For now Bayesian analysis: We want to estimate an unknown parameter using probabilty from a prior. 
+An example is to calculate the likelihood that a patient with a positive test result has a disease, you need to know the accuracy of the test and the prevalence of the disease in the population.
+MCMC is also known as Markov chain Monte Carlo. MCMC is an algorithm used to draw samples from a probability distribution.
+BEAST can be used for reconstructing phylogenie or testing evolutionary hypotheses. 
+I worked through the first and second tutorial. And was able to develop Trace Plots.
+Some new terms I learned this week: Burn in, MJ network analysis, Maximum likelihood, Bayes theorm
+
+For the BiSSE model I started with making a birth death model using this tutorial: https://www.youtube.com/watch?v=wMzCdwaXvdI
+In this tutorial you should learn commands like set.seed and work on writing for loops for populations. 
+Next I started working with Raymond and Sean in the Landis lab to make a BiSSE model. 
+A BiSSE model is a Binary-State Speciation and Extinction model. 
+Essentially you have two states where speciation, extinction, and state condition can vary between the two.
+For clarification, when you start on models always start with simulating the data yourself instead of incourporating trees and data sets right away. 
+Luke Harmon has some awesome resources but he does not start with simulating and this caused me to really struggle and go off track for two weeks. 
+I reccomend working through the revbayes tutorial: https://revbayes.github.io/tutorials/sse/bisse.html for first time BiSSE builders. 
+Additonally, I would utilize chatgtp to make the barebones of your script. Be cautous using chatgtp and make sure you understand the content and take good notes. 
+Focus on understanding the steps of building the model, not memorizing the code.
+When making your BiSSE model you shuld learn to: Write functions, for loops, and calculate likelihoods
+
+For the SIR model I started with reading papers to understand all the different interworking and directions SIR models can go. 
+I also hghly recomend working through SIR curves, and understanding how susceptability, infection, and recovery work together in populations. 
+This website is pretty solid at describing the workings of an SIR model: https://www.sciencedirect.com/topics/mathematics/sir-model
+Additonally wikipedia is good at explaining complex models and formulas. 
+Again I focused on understanding the general pattern an SIR model follows and used chatgtp to help me make it and spit out some curves. 
