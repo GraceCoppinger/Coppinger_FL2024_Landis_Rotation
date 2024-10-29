@@ -1,1 +1,15 @@
+During my rotation I was able to get a solid understanding of the core concepts and mechanisms that went into building models and interperating phylogenetic data. 
+While I am happy with the out come of my rotation, I know there is quite a bit of material I did not cover. 
+I strongly advise using this resource to locate good websites and papers about these topics, BUT please do not follow this as your rotation week by week schedule.
+I always felt like I learned the most when things did not go smoothly, and you should give yourself space to make mistakes and research topics interesting to you. 
+Nonetheless making this repository showed me how much I learned along the way, and I highly reccomend you doing the same. 
+
+What I wish I had done differently:
+- Spent less time on inference models. 
+- Spent way more time on simulation models
+- Explored building other types of models: 
+    -Specifically, Brownian motion and OU models, HKY subsitution models, and more elaborote SIR models
+
+Overall, I am very happy with how much I learned during my rotation and I hope it can be useful to others in the future. 
+
 
