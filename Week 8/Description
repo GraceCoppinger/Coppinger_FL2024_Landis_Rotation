@@ -1,1 +1,22 @@
-Week 8: Ordinary and generalized least squares
+Week 8: Ordinary least squares and Phylogenetic Generalized Least Squares
+
+This week started off as most do... reading and noticing a common concept through many papers. 
+OLS and PGLS are frequently talked about and refered to, so this week I decided to make sure I actually comprehend these topics.
+
+What is OLS:
+https://www.xlstat.com/en/solutions/features/ordinary-least-squares-regression-ols
+https://en.wikipedia.org/wiki/Ordinary_least_squares
+OLS estimates the parameters of a linear regression model by minimizing the sum of squared residuals (the differences between observed and predicted values).
+It is best applied to independent data without any hierarchical structure.
+
+
+What is PGLS:
+
+PGLS is designed for analyzing data that includes phylogenetic relationships among species. 
+It accounts for the non-independence of observations that arise from evolutionary relatedness.
+It incorporates a phylogenetic covariance structure, and assumes that the error terms may be correlated due to shared evolutionary history.
+
+The key difference is OLS assumes NO COVARIANCE between residuals, where PGLS assumes there is evoultionary relatedness via common ancestor.
+See "OLSvsPGLS.png" for a graphic comparing covariance matrixs of the two. 
+
+Review this video for better explanation: https://www.youtube.com/watch?app=desktop&v=KbbO6cEPpFs
