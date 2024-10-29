@@ -24,7 +24,7 @@ coppinger@wustl.edu
 | Week | Date | Description |
 |-------|------------|-------------|
 | Week 1        | 8/26- 8/30 | Get organized and read Luke Harmons "Phylogenetic Comparative Methods" |
-| Week 2        | 9/2- 9/6 | Beast, BiSSE, and SIR |
+| Week 2        | 9/2- 9/6 | BEAST, BiSSE, and SIR |
 | Week 3        | 9/9 - 9/13 | Marginal, Conditional, and Joint Probability |
 | Week 4        | 9/16 - 9/20 | Bayes Theorm and Maximum Likelihood|
 | Week 5        | 9/23 - 9/27 | Sick Week |
