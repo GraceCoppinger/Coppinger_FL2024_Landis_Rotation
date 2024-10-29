@@ -1,1 +1,12 @@
-Week 7 Ordinary and generalized least squares:
+Week 7 Pagels Lambda:
+
+
+Now for practice simulate a 4 tip tree in R using Ape. and calculate Pagels Lambda by hand. 
+Use set.seed(132)
+You will need to:
+-obtain branch legths including internal nodes
+-Write a Q-matrix with the branch lengths
+-Apply pagels lambda to the off diagonals
+-Use phylosig to calculate pagels lambda
+
+See "Pagels.R" and PagesAnswer.png to check your work
