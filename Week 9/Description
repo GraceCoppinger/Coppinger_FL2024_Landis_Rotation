@@ -1,2 +1,17 @@
 Week 9 Linear Regression model:
 For my last big content study in the landis lab I wanted to really put my skills to the test and build a Linear Regression model that utilizes both maximum liklihood and bayesian analyis. 
+If you choose to test your coding skills with Linear Regression I recommend having practiced: 
+- Making Functions in R
+- Obtaining Maximum Likelihood in R 
+- Knowing the difference between Bayesian an MLE
+- Running optimun (essentially an MCMC)
+
+The goal of Linear Regression models is to find the linear relationship between dependent and independent variables.
+Remember middle school algebra: y=mx +b
+Well x and y represent the distance of the line from the x-axis and y-axis, respectively. m is the slope of the line and b is the intercept.
+In phylogenetic comparative methods, linear regressions are used to analyze the relationship between traits across different species while accounting for their evolutionary history. 
+In the past I have used the to prove/disprove a relationship between size and toxin expression in snakes. 
+One of the most common examples of Linear Regression in Phylogenetics is: Phylogenetic Generalized Least Squares (PGLS) ~Week 8
+
+I have attached papers I read for others applying PGLS, but I reccomend searching for your own as wel. 
+I also highly reccomend practacing using Linear Regression to make an inference model on your own. You can see my work though in "LinearRegression.R"
