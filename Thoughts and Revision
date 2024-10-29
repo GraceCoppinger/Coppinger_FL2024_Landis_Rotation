@@ -11,5 +11,17 @@ What I wish I had done differently:
     -Specifically, Brownian motion and OU models, HKY subsitution models, and more elaborote SIR models
 
 Overall, I am very happy with how much I learned during my rotation and I hope it can be useful to others in the future. 
+I am very thankul to have had help from Raymond, Sean, and Micheal during my rotation, as I could not have tacked such a vast amount of knowledge with out them. 
+
+Additionally, please note that I read many more papers than I included, and revied many more basic topics that I covered in these weeks.
+Some of those topics you may want to look into are:
+- How to build a matrix
+- What is a phylogeny
+- What are the events that shape phylogenetic trees
+- Basic calculus formulas
+- MJ network anlysis
+- Various software that is used in Phylogenetic comparative methods
+- Nelder-mead and gradient based optimization
+- Coalescent theory
 
 
