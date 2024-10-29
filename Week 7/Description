@@ -2,6 +2,10 @@ Week 7 Pagels Lambda:
 Pagel's lambda (λ) is a tool used in ecology and evolution to measure the strength of the phylogenetic signal in a set of traits.
 Essentially it measures: How closely do related species resemble one another in their traits, relative to what's expected under a Brownian motion model.
 Values close to 0 indicate no phylogenetic signal, while values close to 1 indicate trait evolution according to Brownian motion.
+Pagels lambda can be used to 
+
+I highly reccomend reading "How to define, use, and interpret Pagel’s λ (lambda) in ecology and evolution" by William D. Pearse 
+As well as "Inferring the historical patterns of biological evolution" by Mark Pagel. 
 
 Now for practice simulate a 4 tip tree in R using Ape. and calculate Pagels Lambda by hand. 
 Use set.seed(132)
