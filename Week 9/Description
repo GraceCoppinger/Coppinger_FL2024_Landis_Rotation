@@ -8,7 +8,8 @@ If you choose to test your coding skills with Linear Regression I recommend havi
 
 The goal of Linear Regression models is to find the linear relationship between dependent and independent variables.
 Remember middle school algebra: y=mx +b
-Well x and y represent the distance of the line from the x-axis and y-axis, respectively. m is the slope of the line and b is the intercept.
+Well x and y represent the distance of the line from the x-axis and y-axis, respectively. m is the slope of the line and b is the intercept. Some also think of this as rise and run. 
+Your goal is to find the most likely intercept and slope to explain the variables x and y.
 In phylogenetic comparative methods, linear regressions are used to analyze the relationship between traits across different species while accounting for their evolutionary history. 
 In the past I have used the to prove/disprove a relationship between size and toxin expression in snakes. 
 One of the most common examples of Linear Regression in Phylogenetics is: Phylogenetic Generalized Least Squares (PGLS) ~Week 8
