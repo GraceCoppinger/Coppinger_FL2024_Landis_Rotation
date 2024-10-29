@@ -34,5 +34,6 @@ coppinger@wustl.edu
 | Week 9        | 10/21 -10/25 | Linear Regression model |
 | Week 10       | 10/28 -11/1 | Organize material and make this repository. |
 | R scripts        | 8/26 -11/1 | This folder contains all R scripts generated, for easy accsess|
+| Papers        | 8/26 -11/1 | This folder contains reccomended papers based on weekly topics |
 | Other resources        | 8/26 -11/1 | This folder contains all textbooks, websites, and youtube videos used during my rotation.|
 </center>
