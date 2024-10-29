@@ -30,7 +30,7 @@ coppinger@wustl.edu
 | Week 5        | 9/23 - 9/27 | Sick Week |
 | Week 6        | 9/30 - 10/4 | Felenstiens pruning algorithm |
 | Week 7        | 10/7 -10/11 | Pagels lambda |
-| Week 8        | 10/14 -10/18 | Ordinary and generalized least squares |
+| Week 8        | 10/14 -10/18 | Ordinary least squares and Phylogenetic Generalized Least Squares |
 | Week 9        | 10/21 -10/25 | Linear Regression model |
 | Week 10       | 10/28 -11/1 | Organize material and make this repository. |
 | R scripts        | 8/26 -11/1 | This folder contains all R scripts generated, for easy accsess|
