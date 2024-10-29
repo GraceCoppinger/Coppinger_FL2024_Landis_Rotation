@@ -14,13 +14,3 @@ Within his paper "Evolutionary trees from DNA sequences: A maximum likelihood ap
 The main equation of this algorithm is attached in the file "Prunning.png"
 Using this formula, one has to start from the tips of the tree T, then move towards the root and compute the partial likelihoods of each necessary node on the way (4 partial likelihoods per node)
 Having finished at the root of the tree, the likelihood of the tree (for this particular site) is then the sum of the partial likelihoods of the root times the appropriated nucleotide frequency.
-
-Now for practice simulate a 4 tip tree in R using Ape. and calculate Pagels Lambda by hand. 
-Use set.seed(132)
-You will need to:
--obtain branch legths including internal nodes
--Write a Q-matrix with the branch lengths
--Apply pagels lambda to the off diagonals
--Use phylosig to calculate pagels lambda
-
-See "Pagels.R" and PagesAnswer.png to check your work
