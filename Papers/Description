@@ -2,21 +2,23 @@ Week 1:
 A biologist’s guide to Bayesian phylogenetic analysis -Nascimento 2017
 
 Week 2:
-#Advanced: Phylodynamic Inference for Structured Epidemiological Models -Rasmussen 2014 -Change to Voltz
-#Advanced:Detecting Hidden Diversification Shifts in Models of Trait-Dependent Speciation and Extinction -Beaulieu 2016 -Chage to Maddison
-#Markholder 2004? 
-
+Viral Phylodynamics -Voltz 2013
+Estimating a Binary Character's Effect on Speciation and Extinction -Maddison 2007
+BEAST: Bayesian evolutionary analysis by sampling trees -Drummond 2007
 
 Week 3:
+Phylogenetic Methods Come of Age: Testing Hypotheses in an Evolutionary Context -Huelsenbeck 1997
+Marginal Likelihoods in Phylogenetics: A Review of Methods and Applications -Oaks 2019
 
 Week 4:
 Implementing and testing Bayesian and maximum-likelihood supertree methods in phylogenetics -Wasiu 2015
-#Holder and Lewis 2003
+Phylogeny estimation: traditional and Bayesian approaches -Holder and Lewis 2003
 
 Week 5 (Sick week):
-
+I would use this time to explore interesting topics to you!
 
 Week 6:
+Evolutionary Trees From Gene Frequencies and Quantitative Characters: Finding Maximum Likelihood Estimates -Felsenstein 1981
 A species-level timeline of mammal evolution integrating phylogenomic data -Álvarez-Carretero 2021
 
 
@@ -26,7 +28,9 @@ Inferring the historical patterns of biological evolution- agel 1999
 
 
 Week 8:
-
+Comparative methods for the analysis of continuous variables: geometric interpretations -Rolf 2001
+Testing species’ deviation from allometric predictions using the phylogenetic regression -Rolf 2016
+The phylogenetic regression -Grafen 1989
 
 Week 9:
 Phylogenetic signal and linear regression on species data- Revel 2010
